@@ -1,12 +1,9 @@
 # Cisco Networking
 This repository showcases my journey through Cisco networking courses and labs, where I applied concepts hands-on using real hardware and simulators like Cisco Packet Tracer. My skills span from foundational switch configuration to advanced enterprise network planning, security hardening, and Layer 3 upgrades.
-
----
 ## Network Courses Completed
 - CIS 26A – Introduction to Networks (RCC)
 - CIS 26B – Switching, Routing, and Wireless Essentials (RCC)
 - IST 4210 – Advanced Networking and Security (CSUSB)
----
 ## Tools and Equipment
 ### Software Used:
 - Cisco IOS (CLI configuration)
@@ -18,7 +15,6 @@ This repository showcases my journey through Cisco networking courses and labs, 
 - Linksys WRT54GL router
 - HP network printer
 - Console and Ethernet cables
----
 ## Core Concepts Demonstrated
 ### Networking Fundamentals
 - IP addressing and subnetting (VLSM)
@@ -36,7 +32,6 @@ This repository showcases my journey through Cisco networking courses and labs, 
 - Disabled unnecessary services (e.g., DNS lookup)
 - Logging synchronization
 - Inter-VLAN routing via Layer 3 upgrades
----
 ## Real Hardware Lab Activities
 ### Basic Switch Setup
 - Assigned hostnames and IP addresses
@@ -47,12 +42,10 @@ This repository showcases my journey through Cisco networking courses and labs, 
 - Created and applied standard and extended ACLs
 - Set up management VLANs
 - Restricted services by IP and protocol using ACLs
----
 ## Enterprise Network Lab (IST 4210)
 We designed a full-scale enterprise networking project in groups, simulating a multi-floor building with segmented VLANs, routed traffic, bridged wireless access points, ACLs for security, and Layer 3 functionality.
-
 **Diagram of the Topology:**  
-![A building diagram of Cisco switches connected to each other using VLANs](BuildingDiagramVLANS.jpg)
+![A building diagram of Cisco switches connected to each other using VLANs](BuildingDiagramVLANS.jpg){width=300 height=200}
 ### Features Implemented:
 - VLANs per floor and department
 - Trunking between switches and routers
@@ -61,7 +54,6 @@ We designed a full-scale enterprise networking project in groups, simulating a m
 - Wireless AP bridging using Linksys WRT54GLs
 - Layer 2 to Layer 3 IOS upgrade on a switch to enable inter-VLAN routing
 - Connected an HP network printer to the switch and printed a test page to confirm connectivity
----
 ## Cisco Packet Tracer Assignments
 Hands-on Packet Tracer labs helped solidify my understanding of both basic and advanced concepts:
 1. Designed a network topology that mirrors the classroom’s physical setup
@@ -73,7 +65,6 @@ Hands-on Packet Tracer labs helped solidify my understanding of both basic and a
 7. Built and tested ACLs for service restrictions
 8. Practiced troubleshooting using `ping`, `traceroute`, and `show` commands
 9. Simulated and verified inter-VLAN routing
----
 ## Attachments in This Repo
 This repository includes some files showing proof of what I was able to do with my group for this project:
 - `swfloor6-config` – The switch configuration for Floor 6, containing VLAN definitions, trunk configurations, ACLs, SSH settings, and more.
