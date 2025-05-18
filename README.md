@@ -45,7 +45,7 @@ This repository showcases my journey through Cisco networking courses and labs, 
 ## Enterprise Network Lab (IST 4210)
 We designed a full-scale enterprise networking project in groups, simulating a multi-floor building with segmented VLANs, routed traffic, bridged wireless access points, ACLs for security, and Layer 3 functionality.
 **Diagram of the Topology:**  
-![A building diagram of Cisco switches connected to each other using VLANs](BuildingDiagramVLANS.jpg){width=300 height=200}
+![A building diagram of Cisco switches connected to each other using VLANs](BuildingDiagramVLANS.jpg)
 ### Features Implemented:
 - VLANs per floor and department
 - Trunking between switches and routers
