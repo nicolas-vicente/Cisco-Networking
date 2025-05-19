@@ -67,5 +67,5 @@ Hands-on Packet Tracer labs helped solidify my understanding of both basic and a
 This repository includes some files showing proof of what I was able to do with my group for this project:
 - `swfloor6-config` – The switch configuration for Floor 6, containing VLAN definitions, trunk configurations, ACLs, SSH settings, and more.
 - `tftp download` – A screenshot showing the download of the running-config file from the switch to a TFTP server I was hosting on my laptop.
-- `BuildingDiagramVLANS.jpg` – A visual of the full building diagram used for the group project. Each group was assigned a floor; we were responsible for Floor 6.
-- `Addressing Table (Group Project).pdf` – Our floor’s addressing table, including assigned subnets, device IPs, and DHCP exclusions.
+- `BuildingDiagramVLANS` – A visual of the full building diagram used for the group project. Each group was assigned a floor; we were responsible for Floor 6.
+- `Addressing Table` – Our floor’s addressing table, including assigned subnets, device IPs, and DHCP exclusions.
